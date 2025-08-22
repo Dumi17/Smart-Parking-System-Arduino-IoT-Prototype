@@ -7,7 +7,7 @@ The project simulates a **scalable modular parking solution**, where cars are au
 
 ## 📹 Demo
 
-👉 [Watch the video demonstration](./video.mp4)
+👉 [Watch the video demonstration](./media/video.mp4)
 
 ---
 
